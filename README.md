@@ -1,0 +1,1 @@
+Hello, this is my first project file on web development course. I have taken ref. from odin project, google and you tube for this project. It was pretty hard for me becouse I am from a totally diffrent profession but want to learn programming and web dev. you will find find many mistakes in it, just help me to improve. Thanks for your time.
